@@ -1,3 +1,9 @@
+# My build of **suckless's dmenu**
+
+This build includes some patches (sources are inside **'patches'** folder) and personal configurations in the **'config.h'** file.  
+The **'colors-dmenu.h'** file has my theme configuration for **dmenu**.  
+Bellow are the contents of the original README file from **suckless**.  
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
